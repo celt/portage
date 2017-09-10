@@ -1,0 +1,31 @@
+# unknown reason.
+=net-misc/openssh-6.2_p2
+=dev-lang/php-5.4.22
+# chromium binary dependies 
+# awesome russian keymap fix
+#>x11-apps/xkbcomp-1.2.3
+www-client/firefox::stuff
+x11-libs/gtk+::stuff
+dev-util/idea-ultimate:eap
+app-editors/sublime-text:miramir
+#some blocks with android studio and dropbox
+=sys-libs/ncurses-6.0:5/6::gentoo
+=app-misc/tmux-2.1-r1
+=sys-libs/pam-1.3.0
+=sys-block/gparted-0.26.1
+=app-text/hunspell-1.6.0
+=app-text/hunspell-1.5.4
+=app-text/hunspell-1.5.3
+media-video/guvcview::rindeal
+#libreoffice-bin current lock
+=dev-libs/liborcus-0.12.1
+=dev-libs/boost-1.63.0:0/1.63.0
+=dev-libs/boost-1.65.0:0/1.65.0
+#end libreoffice
+=media-sound/deadbeef-0.7.2::miramir
+=media-sound/deadbeef-0.7.2::rindeal
+=dev-python/notebook-4.4.1::rindeal
+>dev-libs/libixion-0.11.1
+sys-apps/shadow::rindeal
+media-sound/pavucontrol::rindeal
+>=dev-lang/python-3.6.1-r1

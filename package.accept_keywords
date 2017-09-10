@@ -1,0 +1,26 @@
+# required by deadbeef-vk (argument)
+# move media-sound/deadbeef-vk media-plugins/deadbeef-vk
+=media-plugins/deadbeef-vk-9999 **
+=net-misc/hotot-9999		**
+
+#dependencies for libreoffice-bin
+app-text/poppler -~amd64
+#dev-libs/boost -~amd64
+dev-libs/icu -~amd64
+#dev-util/boost-build -~amd64
+#dev-libs/librevenge -~amd64
+media-libs/libvisio -~amd64
+dev-util/mdds -~amd64
+#dev-libs/libixion -~amd64
+#dev-libs/liborcus -~amd64
+app-text/libmspub -~amd64
+media-gfx/graphite2 -~amd64
+app-text/libetonyek -~amd64
+#=dev-libs/libixion-0.12.1 **
+=dev-libs/liborcus-0.12.1 **
+#use allways stable version
+#app-admin/ansible -~amd64
+#
+#sys-libs/glibc -~amd64
+sys-boot/grub -~amd64
+sys-kernel/genkernel -~amd64
